@@ -1,0 +1,14 @@
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.BLL\bin\Debug\ITI.Smart.EF.BLL.dll.config
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.BLL\bin\Debug\ITI.Smart.EF.BLL.dll
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.BLL\bin\Debug\ITI.Smart.EF.BLL.pdb
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.BLL\bin\Debug\EntityFramework.dll
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.BLL\bin\Debug\ITI.Smart.EF.Model.dll
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.BLL\bin\Debug\ITI.Smart.EF.Repository.dll
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.BLL\bin\Debug\ITI.Smart.EF.Model.pdb
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.BLL\bin\Debug\ITI.Smart.EF.Repository.pdb
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.BLL\bin\Debug\EntityFramework.xml
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.BLL\obj\Debug\ITI.Smart.EF.BLL.csprojResolveAssemblyReference.cache
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.BLL\obj\Debug\ITI.Smart.EF.BLL.dll
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.BLL\obj\Debug\ITI.Smart.EF.BLL.pdb

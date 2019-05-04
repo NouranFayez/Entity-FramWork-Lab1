@@ -1,0 +1,10 @@
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.Repository\bin\Debug\ITI.Smart.EF.Repository.dll.config
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.Repository\bin\Debug\ITI.Smart.EF.Repository.dll
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.Repository\bin\Debug\ITI.Smart.EF.Repository.pdb
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.Repository\bin\Debug\EntityFramework.dll
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.Repository\bin\Debug\EntityFramework.xml
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.Repository\obj\Debug\ITI.Smart.EF.Repository.csprojResolveAssemblyReference.cache
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.Repository\obj\Debug\ITI.Smart.EF.Repository.dll
+E:\ITI\Entity Framework\LabDay1\ITI.Smart.EF\ITI.Smart.EF.Repository\obj\Debug\ITI.Smart.EF.Repository.pdb
